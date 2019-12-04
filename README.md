@@ -2,13 +2,13 @@
 
 Predicting returns of future customer orders based on former customer behavior.
 
-1. Cleaning the Dataset
+1. Preprocessing the Data.
 
-2. Feature Engineering
+2. Feature Engineering.
 
-3. Future Selection
+3. Feature Selection.
 
-4. Random Forest implementation
+4. Implementation of Random Forest.
 
 
 
